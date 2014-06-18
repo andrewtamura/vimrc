@@ -1,5 +1,5 @@
 """"""
-" Andrew Tamura's preffered vimrc
+" Andrew Tamura's prefered vimrc
 " http://andrewtamura.com
 "
 """"""
